@@ -4,10 +4,10 @@ public:
         int n;
         vector<int> ans;
         for(int i=0;i<nums.size();i++){
-            n=abs(nums[i])-1;
+            n=abs(nums[i])-1;   //ignore negative marked indices 
             
             if(nums[n]>0){
-            nums[n]=-nums[n];
+            nums[n]=-nums[n];    // mark negative 
             }
         }
         for(int i=0;i<nums.size();i++){
