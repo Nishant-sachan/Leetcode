@@ -61,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Nishant-sachan/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Nishant-sachan/Leetcode/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Nishant-sachan/Leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Nishant-sachan/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
