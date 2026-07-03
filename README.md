@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Nishant-sachan/Leetcode/tree/master/0342-power-of-four) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Nishant-sachan/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Bit Manipulation
 |  |
 | ------- |
