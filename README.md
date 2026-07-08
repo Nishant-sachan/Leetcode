@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Nishant-sachan/Leetcode/tree/master/0832-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nishant-sachan/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1672-richest-customer-wealth](https://github.com/Nishant-sachan/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Nishant-sachan/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Nishant-sachan/Leetcode/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Nishant-sachan/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Stack
 |  |
 | ------- |
