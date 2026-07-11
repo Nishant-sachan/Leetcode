@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nishant-sachan/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Nishant-sachan/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nishant-sachan/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nishant-sachan/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nishant-sachan/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Nishant-sachan/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nishant-sachan/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nishant-sachan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Nishant-sachan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nishant-sachan/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Nishant-sachan/Leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Nishant-sachan/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/Nishant-sachan/Leetcode/tree/master/0443-string-compression) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nishant-sachan/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
