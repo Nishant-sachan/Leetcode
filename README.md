@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nishant-sachan/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nishant-sachan/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-sachan/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nishant-sachan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nishant-sachan/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-sachan/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Nishant-sachan/Leetcode/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/Nishant-sachan/Leetcode/tree/master/0832-flipping-an-image) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nishant-sachan/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Nishant-sachan/Leetcode/tree/master/0342-power-of-four) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nishant-sachan/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
