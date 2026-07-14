@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Nishant-sachan/Leetcode/tree/master/0443-string-compression) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nishant-sachan/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3612-process-string-with-special-operations-i](https://github.com/Nishant-sachan/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Nishant-sachan/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Nishant-sachan/Leetcode/tree/master/0832-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nishant-sachan/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3612-process-string-with-special-operations-i](https://github.com/Nishant-sachan/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Nishant-sachan/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Matrix
 |  |
 | ------- |
