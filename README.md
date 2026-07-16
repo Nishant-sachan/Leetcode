@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Nishant-sachan/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Nishant-sachan/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Nishant-sachan/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-sachan/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Nishant-sachan/Leetcode/tree/master/0704-binary-search) |
 ## Simulation
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nishant-sachan/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishant-sachan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Nishant-sachan/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
