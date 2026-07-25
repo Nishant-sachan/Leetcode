@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nishant-sachan/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Nishant-sachan/Leetcode/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Nishant-sachan/Leetcode/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/Nishant-sachan/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Nishant-sachan/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nishant-sachan/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nishant-sachan/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nishant-sachan/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Nishant-sachan/Leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Nishant-sachan/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Nishant-sachan/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Nishant-sachan/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Nishant-sachan/Leetcode/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/Nishant-sachan/Leetcode/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/Nishant-sachan/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Nishant-sachan/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Nishant-sachan/Leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Nishant-sachan/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Monotonic Stack
 |  |
 | ------- |
