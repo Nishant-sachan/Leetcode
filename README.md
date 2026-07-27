@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Nishant-sachan/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Nishant-sachan/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/Nishant-sachan/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Nishant-sachan/Leetcode/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Nishant-sachan/Leetcode/tree/master/0832-flipping-an-image) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nishant-sachan/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nishant-sachan/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nishant-sachan/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nishant-sachan/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nishant-sachan/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Nishant-sachan/Leetcode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/Nishant-sachan/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishant-sachan/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nishant-sachan/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Nishant-sachan/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Nishant-sachan/Leetcode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0832-flipping-an-image](https://github.com/Nishant-sachan/Leetcode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Nishant-sachan/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nishant-sachan/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Nishant-sachan/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-sachan/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/Nishant-sachan/Leetcode/tree/master/0704-binary-search) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nishant-sachan/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Nishant-sachan/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
