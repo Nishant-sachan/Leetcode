@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Nishant-sachan/Leetcode/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Nishant-sachan/Leetcode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Nishant-sachan/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0962-maximum-width-ramp](https://github.com/Nishant-sachan/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Nishant-sachan/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nishant-sachan/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0832-flipping-an-image](https://github.com/Nishant-sachan/Leetcode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Nishant-sachan/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0962-maximum-width-ramp](https://github.com/Nishant-sachan/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishant-sachan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nishant-sachan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishant-sachan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Nishant-sachan/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0962-maximum-width-ramp](https://github.com/Nishant-sachan/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nishant-sachan/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Greedy
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Nishant-sachan/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0962-maximum-width-ramp](https://github.com/Nishant-sachan/Leetcode/tree/master/0962-maximum-width-ramp) |
 ## Math
 |  |
 | ------- |
