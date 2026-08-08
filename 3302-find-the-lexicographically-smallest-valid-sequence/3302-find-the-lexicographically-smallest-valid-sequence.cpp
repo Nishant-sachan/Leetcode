@@ -3,7 +3,7 @@ public:
     vector<int> validSequence(string word1, string word2) {
         int n= word1.length();
         int m= word2.length();
-        vector<int> right(n+1,0);
+        vector<int> right(n,0);
         int i=n-1;
         int j=m-1;
         int matched=0;
@@ -24,7 +24,7 @@ public:
                 seq.push_back(i);
                 j++;
             }
-            else if(power==true and right[i+1]>=m-j-1){
+            else if(power==true and i<n-1 and right[i+1]>=m-j-1){
                 seq.push_back(i);
                 j++;
                 power=false;
