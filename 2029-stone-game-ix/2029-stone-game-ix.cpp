@@ -1,0 +1,22 @@
+class Solution {
+public:
+    bool stoneGameIX(vector<int>& stones) {
+        int cnt0=0,cnt1=0,cnt2=0;
+        for(int i:stones){
+            int x=i%3;
+            if(x==0){
+                cnt0++;
+            }
+            else if (x==1){
+                cnt1++;
+            }
+            else{
+                cnt2++;
+            }
+        }
+        if(cnt0%2==0){
+            return cnt1>=1 and cnt2>=1;
+        }
+        return abs(cnt2-cnt1)>2;
+    }
+};
