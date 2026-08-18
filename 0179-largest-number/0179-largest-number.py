@@ -1,23 +1,21 @@
 class Solution(object):
     def largestNumber(self, nums):
 
-        arr = []
+        l = []
 
-        for num in nums:
-            arr.append(str(num))
+        for i in nums:
+            l.append(str(i))
 
-        n = len(arr)
+        for i in range(len(l)):
+            for j in range(i + 1, len(l)):
 
-        for i in range(n):
-            for j in range(i + 1, n):
-
-                if arr[i] + arr[j] < arr[j] + arr[i]:
-                    arr[i], arr[j] = arr[j], arr[i]
+                if l[i] + l[j] < l[j] + l[i]:
+                    l[i], l[j] = l[j], l[i]
 
         ans = ""
 
-        for x in arr:
-            ans += x
+        for i in l:
+            ans += i
 
         if ans[0] == "0":
             return "0"
