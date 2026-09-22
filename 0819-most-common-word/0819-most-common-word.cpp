@@ -1,40 +1,36 @@
 class Solution {
 public:
     string mostCommonWord(string paragraph, vector<string>& banned) {
-
+        
         unordered_map<string, int> mp;
-        unordered_set<string> st;
+        set<string> st;
 
-        // Store banned words
+        // banned words
         for (string s : banned) {
             st.insert(s);
         }
 
-        // Convert punctuation to spaces and lowercase
+        // lowercase + punctuation remove
         for (char &c : paragraph) {
-            if (ispunct(c)) {
+            if (ispunct(c))
                 c = ' ';
-            } else {
+            else
                 c = tolower(c);
-            }
         }
 
-        // Count frequency
-        string word;
+        // words
+        string x;
         stringstream ss(paragraph);
 
-        while (ss >> word) {
-            if (st.find(word) == st.end()) {
-                mp[word]++;
-            }
+        while (ss >> x) {
+            mp[x]++;
         }
 
-        // Find maximum frequency
-        string ans = "";
         int max_freq = 0;
+        string ans = "";
 
         for (auto &p : mp) {
-            if (p.second > max_freq) {
+            if (st.find(p.first) == st.end() && p.second > max_freq) {
                 max_freq = p.second;
                 ans = p.first;
             }
