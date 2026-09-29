@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Nishant-sachan/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Nishant-sachan/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nishant-sachan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishant-sachan/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Nishant-sachan/Leetcode/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Nishant-sachan/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Nishant-sachan/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishant-sachan/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
 |  |
 | ------- |
@@ -218,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nishant-sachan/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nishant-sachan/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishant-sachan/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishant-sachan/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
